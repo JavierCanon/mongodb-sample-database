@@ -1,16 +1,15 @@
-## Northwind@MongoDB ##
+## Sample Databases for MongoDB ##
 
-### What it is
+# What it is
 
+Sample databases to import to MongoDB.
+
+
+## Windows 10
 * Just a simple data dump from SQL's Northwind database to a CSV
 * CSV (northwind.csv) turned into multiple CSVs
-* CSVs imported into Mongo (mongo-import.sh)
+* CSVs imported into Mongo (mongo-import.bat)
 
 
-### What it needs
-
-* There aren't any employee/product images
-* It's a straight data dump - no relations or special magic
-
-
+# Thanks
 Thanks to [@shayden](https://github.com/shayden) for the csv dump. Buyer beware, caveat emptor, carthago delenda est et al
